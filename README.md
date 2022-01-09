@@ -1,0 +1,2 @@
+# Source-Tutorial
+Source-Tutorial: Source is a 3D game engine developed by Valve. It debuted as the successor to GoldSrc with Half-Life: Source in June 2004, followed by Counter-Strike: Source and Half-Life 2 later that year. Source does not have a concise version numbering scheme; instead, it is designed in constant incremental updates. The engine began to be phased out by the late 2010s with Source 2 succeeding it.
